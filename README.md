@@ -9,7 +9,7 @@
 
 ---
 
-### 📫 How to reach me:
+### 📫 How To Reach Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/duy-nghia-2ab90a201/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -38,7 +38,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynghia-123&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most Used Languages" alt="duynghia-123" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=duynghia-123&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works on Github" alt="duynghia-123" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=duynghia-123&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works On Github" alt="duynghia-123" width="100%"/>
     </td>
     <td>
       <p align="center"> 
