@@ -51,5 +51,5 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duynghia-123&theme=light&background=f9f9f9)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duynghia-123&theme=onedark&count_private=true)](https://git.io/streak-stats)
 
