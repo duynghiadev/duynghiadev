@@ -26,6 +26,6 @@
   </a>
 </p>
 
-  <a href="https://github.com/duynghia-123"><img alt="duynghia" src="https://activity-graph.herokuapp.com/graph?username=DuyNghia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 ---
