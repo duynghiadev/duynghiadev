@@ -4,13 +4,15 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 
 ### ✍️ Quote (Refresh for more)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-<br>
+
 
 ## Fun Fact 🎈:
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
@@ -29,6 +31,9 @@
 ## 🏆 **GITHUB TROPHY**
 
 ![](https://github-profile-trophy.vercel.app/?username=duynghia-123&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+
+<br/>
+
 
 <a href="http://www.github.com/duynghia-123"><img src="https://activity-graph.herokuapp.com/graph?username=duynghia-123&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
