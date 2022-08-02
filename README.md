@@ -1,24 +1,8 @@
+<div align="center">
 
-<blockquote align="center">With ❤ crafting - For 💯 striving</blockquote>
+![(＾◡＾) Yo! I'm a duynghia, finding something fun to do every day.](<https://typograssy.deno.dev/api?text=(%EF%BC%BE%E2%97%A1%EF%BC%BE)%20Yo!%20I'm%20a%20duynghia,%20finding%20something%20fun%20to%20do%20every%20day.&speed=45&comment=>)
 
-<p align="center">
-  Hey there, I'm <b>Duy Nghia</b>. A software developer and a front-end enthusiast.<br>Connect with me in any social platform below.
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/nghia_dian" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/duy-nghia-2ab90a201/" target="_blank"">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-  </a>
-  <a href="https://www.facebook.com/nghia.duy.220302/" alt="Facebook" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/duynghia-123" alt="Github" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-</p>
+</div>
 
 ### ✍️ Quote (Refresh for more)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
