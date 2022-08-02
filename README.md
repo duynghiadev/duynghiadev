@@ -4,9 +4,12 @@
 
 </div>
 
+<div align="center">
+
 ### ✍️ Quote (Refresh for more)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
 <br>
 
 ## Fun Fact 🎈:
