@@ -28,9 +28,38 @@
 <br />
 <br />
 
+👨 My name is Duy Nghia ( Nghia Basil ) and I'm studying Computer Science at VKU class of 2020. I'm from Vietnam and my goal is to become a software engineer.
+
+```typescript
+class Duy_Nghia  {
+  class: number; school: string; pronouns:string[]; hobbies: string[]; 
+  constructor() {
+    this.class = 2020;
+    this.school =  "VKU 🐘";
+    this.pronouns =  ["he/him"];
+    this.hobbies = ["football", "programming", "music", "youtube"]
+  }
+}
+class Skills extends Duy_Nghia {
+  languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; other: string[]
+  constructor() {
+    super();
+    this.languages = ["HTML", "CSS", "Javascript", "SQL"];
+    this.frameworks = ["ReactJS", "TailwindCSS", "ExpressJS"];
+    this.frontend = ["React", "HTML/CSS", "Redux"];
+    this.backend = ["Node", "MySQL","MongoDB","Mongoose","Firebase"];
+    this.other = ["Git/Github", "npm"]
+  }
+}
+```
+
+<br />
+
 ## 🏆 **GITHUB TROPHY**
 
 ![](https://github-profile-trophy.vercel.app/?username=duynghia-123&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+
+
 
 <br/>
 
