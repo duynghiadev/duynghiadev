@@ -55,7 +55,7 @@ class Skills extends Duy_Nghia {
 
 ## 🏆 **GITHUB TROPHY**
 
-![](https://github-profile-trophy.vercel.app/?username=duynghia-123&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+![](https://github-profile-trophy.vercel.app/?username=duynghiadev&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
 
 
