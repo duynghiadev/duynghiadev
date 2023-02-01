@@ -29,7 +29,6 @@
 
 👨 My name is Duy Nghia ( Nghia Basil ) and I'm studying Computer Science at VKU class of 2020. I'm from Vietnam and my goal is to become a software engineer.
 
-
 <br/>
 
 ***
