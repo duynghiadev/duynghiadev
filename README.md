@@ -24,7 +24,7 @@
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 💬 Ask me about <b>Front End</b>.<br/>
-• 📫 Reach me out <a href="https://www.linkedin.com/in/duynghiale/"><b>@duynghia.le</b></a><br/>
+• 📫 Reach me out <a href="https://www.linkedin.com/in/duynghiale/"><b>@Duynghia</b></a><br/>
 
 </span>
 
