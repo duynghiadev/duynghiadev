@@ -24,7 +24,7 @@
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 💬 Ask me about <b>Front End</b>.<br/>
-• 📫 Reach me out <a href="https://www.instagram.com/nghia.basil/"><b>@nghia.basil</b></a><br/>
+• 📫 Reach me out <a href="https://www.linkedin.com/in/duynghiale/"><b>@duynghia.le</b></a><br/>
 
 </span>
 
@@ -34,7 +34,7 @@
 <br />
 <br />
 
-👨 My name is Duy Nghia ( Nghia Basil ) and I'm studying Computer Science at VKU class of 2020. I'm from Vietnam and my goal is to become a software engineer.
+👨 My name is Duy Nghia and I'm studying Computer Science at VKU class of 2020. I'm from Vietnam and my goal is to become a software engineer.
 
 <br/>
 
