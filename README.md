@@ -1,13 +1,5 @@
 <div align="center">
 
-![(＾◡＾) Yo! I'm a duynghia, finding something fun to do every day.](<https://typograssy.deno.dev/api?text=(%EF%BC%BE%E2%97%A1%EF%BC%BE)%20Yo!%20I'm%20a%20duynghia,%20finding%20something%20fun%20to%20do%20every%20day.&speed=45&comment=>)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### ✍️ Quote (Refresh for more)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
