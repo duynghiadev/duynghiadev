@@ -28,6 +28,13 @@
 
 👨 My name is Duy Nghia and I'm studying Computer Science at VKU class of 2020. I'm from Vietnam and my goal is to become a software engineer.
 
+
+<details open>
+<summary><h2>👨‍💻 Competitive Programming Stats</h2></summary>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/duynghia22302?theme=dark&font=Piazzolla&ext=heatmap)
+</details>
+
 <br/>
 
 ---
