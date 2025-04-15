@@ -14,7 +14,7 @@
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
-• 💬 Ask me anything about Software Craftsmanship 💻 <br/>
+• 💬 Ask me anything about Software Craftsmanship.<br/>
 • 📫 Reach me out <a href="https://www.linkedin.com/in/duynghiale/"><b>@Duynghia</b></a><br/>
 
 </span>
