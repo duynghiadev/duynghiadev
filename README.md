@@ -15,25 +15,4 @@
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 💬 Ask me anything about Software Craftsmanship.<br/>
-• 📫 Reach me out <a href="https://www.linkedin.com/in/duynghiale/"><b>@Duynghia</b></a><br/>
-
-</span>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
-👨 My name is Duy Nghia and I'm studying Computer Science at VKU class of 2020. I'm from Vietnam and my goal is to become a software engineer.
-
-
-<details open>
-<summary><h2>👨‍💻 Competitive Programming Stats</h2></summary>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/duynghia22302?theme=dark&font=Piazzolla&ext=heatmap)
-</details>
-
-<br/>
-
----
+• 📫 Reach me out <a href="https://www.linkedin.com/in/duynghiale/"><b>@Duynghia</b>
